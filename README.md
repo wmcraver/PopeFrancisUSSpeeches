@@ -10,8 +10,8 @@ There are four text files in the text directory that were used in this R script:
 - "PopeFrancis-WhiteHouseSpeech-09-##-2015.txt"
 
 This script generates two artifacts:
-A plot of words used more than 10 times:
+
+A plot of words used more than 10 times and a word cloud of words that are used more than 5 times.
 <img src="https://github.com/wmcraver/PopeFrancisUSSpeeches/raw/master/PopeFrancisSpeech-Words.png">
 
-and a wordcloud of words used more than 5 times
 <img src="https://github.com/wmcraver/PopeFrancisUSSpeeches/raw/master/PopeFrancisSpeech-Wordcloud.png">

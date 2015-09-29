@@ -11,7 +11,7 @@ There are four text files in the text directory that were used in this R script:
 
 This script generates two artifacts:
 
-A plot of words used more than 10 times and a word cloud of words that are used more than 5 times.
+A plot of words used more than 10 times, and a word cloud of words that are used more than 5 times.
 <img src="https://github.com/wmcraver/PopeFrancisUSSpeeches/raw/master/PopeFrancisSpeech-Words.png">
 
 <img src="https://github.com/wmcraver/PopeFrancisUSSpeeches/raw/master/PopeFrancisSpeech-Wordcloud.png">
